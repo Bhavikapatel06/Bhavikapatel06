@@ -32,11 +32,4 @@ Data Structures & Algorithms · Object-Oriented Programming (OOP) · DBMS · Com
 
 ---
 
-### 📊 GitHub Stats
-
-![Bhavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavikapatel06&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavikapatel06&layout=compact)
-
----
-
 ⭐️ Thanks for visiting my profile!
