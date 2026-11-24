@@ -17,7 +17,6 @@ I enjoy transforming ideas into practical solutions through clean code, problem-
 - 🤝 Open to collaborating on open-source projects and innovative tech solutions.
 - 💬 Feel free to connect with me about C++, DSA, React, Node.js, MongoDB, and AI integration.
 
----
 
 ## Connect With Me
 
@@ -25,7 +24,6 @@ I enjoy transforming ideas into practical solutions through clean code, problem-
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhavikapatel.__)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavikapatel4298@gmail.com)
 
----
 
 ## Technical Skills
 
