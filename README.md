@@ -61,7 +61,6 @@ I enjoy transforming ideas into practical solutions through clean code, problem-
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
----
 
 ## GitHub Analytics
 
@@ -74,7 +73,6 @@ I enjoy transforming ideas into practical solutions through clean code, problem-
   <img src="https://streak-stats.demolab.com?user=Bhavikapatel06&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
 
 ## Currently Exploring
 
