@@ -1,5 +1,26 @@
-# 💫 About Me:
-<br><br>- 🔭 I’m currently working on **AiGurukul** <br>- 👯 I’m looking to collaborate on **open-source projects, full-stack development, and AI-powered applications**.<br>- 🤝 I’m looking for help with **advanced DSA, system design, and building scalable applications**.<br>- 🌱 I’m currently learning **AI integration, Retrieval-Augmented Generation (RAG), and backend development**.<br>- 💬 Ask me about **C++, Data Structures & Algorithms, React, Node.js, and MongoDB**.<br>- ⚡ Fun fact: **I enjoy solving coding challenges and turning ideas into real-world applications!**<br>
+Hi, I'm Bhavika Patel 👋
+
+Third-Year Information Technology Student | Full-Stack Developer | AI Enthusiast
+
+I'm a third-year Information Technology student at Charotar University of Science and Technology (CHARUSAT), passionate about building scalable web applications and exploring the potential of Artificial Intelligence.
+
+I enjoy transforming ideas into practical solutions through clean code, problem-solving, and continuous learning. Currently, I'm working on AiGurukul and expanding my knowledge of AI integration, Retrieval-Augmented Generation (RAG), and backend development.
+
+About Me
+
+🎓 Pursuing Information Technology at CHARUSAT (3rd Year).
+
+🔭 Currently working on AiGurukul.
+
+💻 Interested in Full-Stack Development and AI-powered applications.
+
+🌱 Exploring Generative AI, RAG, Backend Development, and System Design.
+
+🧠 Practicing Data Structures & Algorithms to strengthen problem-solving skills.
+
+🤝 Open to collaborating on open-source projects and innovative tech solutions.
+
+💬 Feel free to connect with me about C++, DSA, React, Node.js, MongoDB, and AI integration.
 
 
 ## 🌐 Socials:
@@ -12,16 +33,9 @@
 ![](https://streak-stats.demolab.com/?user=Bhavikapatel06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavikapatel06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhavikapatel06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bhavikapatel06&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://komarev.com/ghpvc/?username=Bhavikapatel06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
