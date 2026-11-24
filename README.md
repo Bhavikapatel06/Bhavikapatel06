@@ -6,7 +6,6 @@ I'm a third-year Information Technology student at **Charotar University of Scie
 
 I enjoy transforming ideas into practical solutions through clean code, problem-solving, and continuous learning. Currently, I'm working on **AiGurukul** and expanding my knowledge of AI integration, Retrieval-Augmented Generation (RAG), and backend development.
 
----
 
 ## About Me
 
