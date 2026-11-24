@@ -1,41 +1,106 @@
-Hi, I'm Bhavika Patel 👋
+# Hi, I'm Bhavika Patel 👋
 
-Third-Year Information Technology Student | Full-Stack Developer | AI Enthusiast
+### Third-Year Information Technology Student | Full-Stack Developer | AI Enthusiast
 
-I'm a third-year Information Technology student at Charotar University of Science and Technology (CHARUSAT), passionate about building scalable web applications and exploring the potential of Artificial Intelligence.
+I'm a third-year Information Technology student at **Charotar University of Science and Technology (CHARUSAT)**, passionate about building scalable web applications and exploring the potential of Artificial Intelligence.
 
-I enjoy transforming ideas into practical solutions through clean code, problem-solving, and continuous learning. Currently, I'm working on AiGurukul and expanding my knowledge of AI integration, Retrieval-Augmented Generation (RAG), and backend development.
+I enjoy transforming ideas into practical solutions through clean code, problem-solving, and continuous learning. Currently, I'm working on **AiGurukul** and expanding my knowledge of AI integration, Retrieval-Augmented Generation (RAG), and backend development.
 
-About Me
+---
 
-🎓 Pursuing Information Technology at CHARUSAT (3rd Year).
+## About Me
 
-🔭 Currently working on AiGurukul.
+- 🎓 Pursuing Information Technology at **CHARUSAT** (3rd Year).
+- 🔭 Currently working on **AiGurukul**.
+- 💻 Interested in Full-Stack Development and AI-powered applications.
+- 🌱 Exploring **Generative AI, RAG, Backend Development, and System Design**.
+- 🧠 Practicing Data Structures & Algorithms to strengthen problem-solving skills.
+- 🤝 Open to collaborating on open-source projects and innovative tech solutions.
+- 💬 Feel free to connect with me about C++, DSA, React, Node.js, MongoDB, and AI integration.
 
-💻 Interested in Full-Stack Development and AI-powered applications.
+---
 
-🌱 Exploring Generative AI, RAG, Backend Development, and System Design.
+## Connect With Me
 
-🧠 Practicing Data Structures & Algorithms to strengthen problem-solving skills.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavika-patel23/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhavikapatel.__)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavikapatel4298@gmail.com)
 
-🤝 Open to collaborating on open-source projects and innovative tech solutions.
+---
 
-💬 Feel free to connect with me about C++, DSA, React, Node.js, MongoDB, and AI integration.
+## Technical Skills
 
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavikapatel.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhavika-patel23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavikapatel4298@gmail.com) 
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bhavikapatel06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Bhavikapatel06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavikapatel06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Backend Development & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### AI, Data & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-[![](https://komarev.com/ghpvc/?username=Bhavikapatel06&icon=0&color=0)](https://visitcount.itsvg.in)
+### Deployment & Cloud
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavikapatel06&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavikapatel06&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhavikapatel06&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhavikapatel06&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## Currently Exploring
+
+- Building AI-powered applications.
+- Implementing Retrieval-Augmented Generation (RAG).
+- Designing scalable backend architectures.
+- Strengthening Data Structures & Algorithms.
+- Learning system design and software engineering best practices.
+
+---
+
+<p align="center">
+  <i>"Great software is built through curiosity, consistency, and continuous improvement."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhavikapatel06&label=Profile%20Views&color=2563EB&style=flat" />
+</p>
