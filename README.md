@@ -79,14 +79,6 @@ I enjoy transforming ideas into practical solutions through clean code, problem-
 
 ---
 
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavikapatel06&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
 ## Currently Exploring
 
 - Building AI-powered applications.
